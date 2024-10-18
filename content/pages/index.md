@@ -89,7 +89,7 @@ sections:
       - type: Link
         label: 'SALA DISCORD '
         altText: 'LINK PRA SALA DO DISCORD '
-        url: /projects
+        url: 'https://discord.gg/bfAcsWCz'
         showIcon: false
         icon: arrowRight
         iconPosition: right
