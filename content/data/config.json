@@ -3,7 +3,7 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-b",
         "isSticky": false,
         "title": "Eai seus low elo, vim ajudar vcs subir essa carniça de elo",
         "isTitleVisible": true,
