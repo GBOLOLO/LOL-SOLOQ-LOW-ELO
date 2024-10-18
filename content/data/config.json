@@ -23,13 +23,6 @@
                 "url": "/https://www.youtube.com/@JungleSemSmite",
                 "icon": "youtube",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "",
-                "label": "",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
