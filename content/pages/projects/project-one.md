@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'MAS N GARANTO A VITORIA '
+title: 'SE TROCAR A LANE COMOGO = VITORIA '
 colors: colors-a
 date: ''
 client: >-
