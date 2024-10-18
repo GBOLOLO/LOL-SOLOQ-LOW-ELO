@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: 'Malzahar, Ahri, Orianna, Lee sin, Graves, Sejuani, vayne, cait, jinx e lucian'
 featuredImage:
   type: ImageBlock
-  url: /images/Screenshot_2.png
+  url: /images/Screenshot_3.png
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
