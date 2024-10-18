@@ -10,7 +10,7 @@ description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Vitória-Tela-LoL-800x492.jpg
-  altText: SE JOGAR NAMORAL SEM TROLLAR A WIN
+  altText: 'CASO EU CAIA AUTOFILL E VOCE TROCAR COMIGO '
 media:
   type: ImageBlock
   url: /images/bg1.jpg
