@@ -5,7 +5,9 @@ title: >-
   tempo."
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: >-
+  "Deixe que eu faço as calls e você garante as kills. A vitória é questão de
+  tempo."
 description: ''
 featuredImage:
   type: ImageBlock
