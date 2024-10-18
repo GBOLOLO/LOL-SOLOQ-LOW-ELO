@@ -19,7 +19,8 @@ sections:
     subtitle: >-
       EU JOGO APENAS 3 LANES, MID, ADC E JUNGLE:  caso eu seja o adc me protege
       que vou carregar, caso eu seja o mid e so jogar junto, SE EU CAIR NA
-      JUNGLE APENAS SIGA AS MINHAS CALL
+      JUNGLE APENAS SIGA AS MINHAS CALL "No Rift, eu guio. Você só precisa
+      seguir as calls e assistir à vitória chegar
     styles:
       self:
         height: auto
