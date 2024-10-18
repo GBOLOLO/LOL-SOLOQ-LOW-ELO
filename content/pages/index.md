@@ -51,7 +51,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/Ephoto360.com_16711585d57a73.jpg
-      altText: altText of the image
+      altText: ''
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
