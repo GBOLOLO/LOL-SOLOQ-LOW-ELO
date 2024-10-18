@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Vitória-Tela-LoL-800x492.jpg
-  altText: Project thumbnail image
+  altText: SE JOGAR NAMORAL SEM TROLLAR A WIN
 media:
   type: ImageBlock
   url: /images/bg1.jpg
