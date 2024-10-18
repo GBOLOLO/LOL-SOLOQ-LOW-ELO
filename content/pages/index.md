@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: SE FOR TROLAR AVISA
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
