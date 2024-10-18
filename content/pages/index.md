@@ -94,14 +94,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: '/https://discord.gg/bfAcsWCz'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
     projects:
       - content/pages/projects/project-one.md
     colors: colors-f
