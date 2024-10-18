@@ -84,7 +84,7 @@ sections:
         justifyContent: flex-end
     subtitle: MEUS ELO
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: MEUS CHAMPIONS
     items:
       - type: FeaturedItem
         title: I'm Fast
