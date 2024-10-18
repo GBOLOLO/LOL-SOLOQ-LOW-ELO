@@ -5,10 +5,6 @@ colors: colors-a
 date: '2021-12-20'
 client: 'RANKED NA MAIN:'
 description: 'SE RECUSOU A TROCAR A LANE, OK MAS N GARANTO A VITORIA '
-featuredImage:
-  type: ImageBlock
-  url: /images/Screenshot_1.png
-  altText: ''
 media:
   type: ImageBlock
   url: /images/bg2.jpg
