@@ -9,7 +9,7 @@ description: >-
   PODER CARREGAR VOCES 
 featuredImage:
   type: ImageBlock
-  url: /images/PRINT SITE '.png
+  url: /images/DERROTA.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
