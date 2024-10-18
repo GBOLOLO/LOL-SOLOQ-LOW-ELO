@@ -10,7 +10,9 @@ description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Vitória-Tela-LoL-800x492.jpg
-  altText: 'CASO EU CAIA AUTOFILL E VOCE TROCAR COMIGO '
+  altText: >-
+    "Deixe que eu faço as calls e você garante as kills. A vitória é questão de
+    tempo."
 media:
   type: ImageBlock
   url: /images/bg1.jpg
