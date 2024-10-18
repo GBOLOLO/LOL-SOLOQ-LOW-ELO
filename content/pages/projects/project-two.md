@@ -7,7 +7,7 @@ client: 'RANKED NA MAIN:'
 description: 'SE RECUSOU A TROCAR A LANE, OK MAS N GARANTO A VITORIA '
 featuredImage:
   type: ImageBlock
-  url: /images/PRINT SITE '.png
+  url: /images/Screenshot_1.png
   altText: ''
 media:
   type: ImageBlock
