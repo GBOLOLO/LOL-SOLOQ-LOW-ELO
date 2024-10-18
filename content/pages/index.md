@@ -84,7 +84,7 @@ sections:
         justifyContent: flex-end
     subtitle: MEUS ELO
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: CASO EU CAIA AUTOFILL( TOP OU SUP )
     actions:
       - type: Link
         label: See all projects
