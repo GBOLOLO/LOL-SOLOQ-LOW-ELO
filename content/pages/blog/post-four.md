@@ -4,7 +4,7 @@ title: "Sharing my wisdom with the world \U0001F30E"
 colors: colors-a
 date: ''
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: CASO ESTEJA AUTOFILL E VOCES N ACEITE TROCAR LANE COMIGO
 featuredImage:
   type: ImageBlock
   url: /images/DERROTA.jpg
