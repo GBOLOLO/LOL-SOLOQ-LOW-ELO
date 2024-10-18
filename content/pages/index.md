@@ -85,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: MEUS ELO
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
