@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: ''
+title: >-
+  "Deixe que eu faço as calls e você garante as kills. A vitória é questão de
+  tempo."
 colors: colors-a
 date: '2021-10-15'
 client: >-
