@@ -87,7 +87,7 @@ sections:
     subtitle: CASO EU CAIA AUTOFILL( TOP OU SUP )
     actions:
       - type: Link
-        label: See all projects
+        label: 'SALA DISCORD '
         altText: 'LINK PRA SALA DO DISCORD '
         url: /projects
         showIcon: false
