@@ -8,6 +8,7 @@ excerpt: 'Malzahar, Ahri, Orianna, Lee sin, Graves, Sejuani, vayne, cait, jinx e
 featuredImage:
   type: ImageBlock
   altText: Post thumbnail image
+  url: /images/Vitória-Tela-LoL-800x492.jpg
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
