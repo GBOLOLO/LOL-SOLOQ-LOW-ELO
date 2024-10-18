@@ -1,15 +1,16 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'CASO QUEIRAM TROLAR, OU N GANHAR '
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Não irei me esforçar, e vou deixar o jogo apenas acabar, quem perde e voces
+  nao eu.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project thumbnail image
+  url: /images/DERROTA.jpg
+  altText: 'SE FOR TROLA '
 media:
   type: ImageBlock
   url: /images/bg3.jpg
