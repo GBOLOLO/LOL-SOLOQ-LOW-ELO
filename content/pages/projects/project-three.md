@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/DERROTA.jpg
-  altText: Project thumbnail image
+  altText: 'SE FOR TROLA '
 media:
   type: ImageBlock
   url: /images/bg3.jpg
