@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: >-
+      No meu jogo, uma call certa vence a partida. Siga minha liderança e suba
+      de elo
     subtitle: ''
     styles:
       self:
