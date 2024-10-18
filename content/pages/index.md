@@ -16,7 +16,7 @@ sections:
     title: >-
       No meu jogo, uma call certa vence a partida. Siga minha liderança e suba
       de elo
-    subtitle: ''
+    subtitle: 'EU JOGO APENAS 3 LANES, MID, ADC E JUNGLE '
     styles:
       self:
         height: auto
