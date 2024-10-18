@@ -18,7 +18,8 @@ sections:
       de elo
     subtitle: >-
       EU JOGO APENAS 3 LANES, MID, ADC E JUNGLE:  caso eu seja o adc me protege
-      que vou carregar, caso eu seja o mid e so jogar junto
+      que vou carregar, caso eu seja o mid e so jogar junto, SE EU CAIR NA
+      JUNGLE APENAS SIGA AS MINHAS CALL
     styles:
       self:
         height: auto
