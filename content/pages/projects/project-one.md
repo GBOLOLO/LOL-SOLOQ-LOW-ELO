@@ -1,8 +1,6 @@
 ---
 type: ProjectLayout
-title: >-
-  SE TROCAR A LANE COMIGO  SE RECUSOU A TROCAR A LANE, OK MAS N GARANTO A
-  VITORIA 
+title: 'MAS N GARANTO A VITORIA '
 colors: colors-a
 date: '2021-10-15'
 client: >-
