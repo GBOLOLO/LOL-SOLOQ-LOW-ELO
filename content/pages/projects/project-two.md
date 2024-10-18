@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Another cool project
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: 'RANKED NA MAIN:'
 description: >-
   ESSES FORAM MEUS ELOS ATÉ AQUI, NÃO FUI MESTRE, MAS SEI BASTANTE COISA PRA
   PODER CARREGAR VOCES 
