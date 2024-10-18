@@ -8,7 +8,7 @@ description: 'SE RECUSOU A TROCAR A LANE, OK MAS N GARANTO A VITORIA '
 featuredImage:
   type: ImageBlock
   url: /images/PRINT SITE '.png
-  altText: Project thumbnail image
+  altText: ''
 media:
   type: ImageBlock
   url: /images/bg2.jpg
